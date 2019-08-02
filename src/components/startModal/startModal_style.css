@@ -1,0 +1,68 @@
+.startModal-bg{
+height: 650px;
+width: 100%;
+background-repeat: no-repeat;
+overflow: hidden;
+background-image: url(./startModal_bg.jpg);
+}
+.intro_header{
+    height: 500px;
+    width : 800px;
+    background-color:white;
+    margin-left: 300px;
+    margin-top: 200px;
+    animation: fadein 2s;
+    -moz-box-shadow:    inset 0 0 10px #0c348bbb;
+    -webkit-box-shadow: inset 0 0 10px #0c348bbb;
+    box-shadow:         inset 0 0 10px #0c348bbb;
+
+}
+.myPic_div{
+    width: 50%;
+    margin-right: -400px;
+}
+.mypic{
+    height: 300px;
+    width: 200px;
+    margin-left: 100px;
+    margin-top: 20px;
+}
+.mytext_div{
+    float: right;
+    margin-top: -245px;
+    margin-right: 100px;
+}
+.start_Name{
+    font-weight: bold;
+    font-size: 25px;
+    font-style: italic;
+}
+.start_postion{
+    font-size: 15px;
+    font-weight: bold;
+    color:  #1890ff;
+}
+.icon_text{
+    padding-right: 10px;
+    color:  #1890ff;
+    font-weight: bold;
+}
+.start_text{
+    font-size: 16px;
+    margin-top: 15px;
+    
+
+}
+.textArea{
+    margin: 20px 20px 0 30px;
+    text-align: left;
+    font-size: 15px;
+    
+}
+.myResume{
+    font-size: 15px;
+    font-weight: bold;
+    text-underline-position: below;
+    float:right;
+    margin-right: 30px;
+}
